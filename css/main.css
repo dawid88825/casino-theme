@@ -672,6 +672,10 @@ body.has-active-navigation {
     list-style-type: none;
   }
 
+  .dropdown-menu-items a:hover {
+    color: var(--third-color);
+  }
+
   .menu-dropdown-link {
     font-size: 12px;
   }
