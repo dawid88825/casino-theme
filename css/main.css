@@ -669,6 +669,7 @@ body.has-active-navigation {
     width: 200px;
     border-radius: 0 0 10px 10px;
     border-top: 5px solid var(--third-color);
+    list-style-type: none;
   }
 
   .menu-dropdown-link {
